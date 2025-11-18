@@ -2,6 +2,8 @@
 
 <img width="2560" height="1707" alt="Image" src="https://github.com/user-attachments/assets/e59fd733-9227-4646-82ac-cbd16fd6fe24" />
 
+*How to optimally allocate marketing budget across channels, campaigns and regions to maximize Return on Ad Spend (ROAS) by using Power BI?*
+
 ---
 
 **Author:** Nguyễn Duy Kiên
