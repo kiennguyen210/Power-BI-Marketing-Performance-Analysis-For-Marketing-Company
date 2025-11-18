@@ -1,4 +1,4 @@
-# Marketing Performance Analysis For Marketing Company (Retail Company) | Power BI
+# Marketing Performance Analysis For Marketing Campaign (Retail Company) | Power BI
 
 <img width="2560" height="1707" alt="Image" src="https://github.com/user-attachments/assets/e59fd733-9227-4646-82ac-cbd16fd6fe24" />
 
