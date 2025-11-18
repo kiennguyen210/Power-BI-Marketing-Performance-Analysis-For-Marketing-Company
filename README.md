@@ -27,9 +27,9 @@
 
 ### 1.1. Objective:
 
-This project is a deep-dive marketing performance dashboard built on Power BI. Its primary goal is to shift the focus from simple spending analysis to actual Marketing ROI (Return on Investment) and profitability.
+This project is a deep-dive marketing performance dashboard built on Power BI. Its primary goal is to shift the focus from simple spending analysis to actual Marketing ROI (Return on Investment), ROAS (Return on Ad Spend) and profitability.
 
-- Measure Marketing ROI across every layer: campaign, channel, and location.
+- Measure Marketing ROI & ROAS across every layer: campaign, channel, and location.
 
 - Support Data-Driven Budget Allocation decisions by identifying the most profitable marketing sources.
 
