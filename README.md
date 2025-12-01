@@ -101,7 +101,7 @@ This dataset has only 1 single fact table with all information including dim, so
 
 ### 3.1. Empathize  
 
-<img width="1920" height="1080" alt="2 1" src="https://github.com/user-attachments/assets/f943492c-30ae-47ad-8aa5-6771fafaec6d" />
+<img width="1920" height="1080" alt="2 1" src="https://github.com/user-attachments/assets/a5c5c8a7-a5fe-4876-85f4-b01fd647aa0f" />
 
 ### 3.2. Define point of view  
 
