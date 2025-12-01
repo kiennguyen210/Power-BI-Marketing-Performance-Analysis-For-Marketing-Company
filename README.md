@@ -101,27 +101,11 @@ This dataset has only 1 single fact table with all information including dim, so
 
 ### 3.1. Empathize  
 
-#### 1️⃣ 5W1H
-
-<img width="1920" height="1080" alt="pic1" src="https://github.com/user-attachments/assets/0fe80e6a-ab0b-4354-ac27-ef996f3e2684" />
-
-#### 2️⃣ Empathy Maps
-
-<img width="1920" height="1080" alt="pic 2" src="https://github.com/user-attachments/assets/a6263ad4-0d48-4880-81be-67bcd41aafef" />
+<img width="1920" height="1080" alt="2 1" src="https://github.com/user-attachments/assets/f943492c-30ae-47ad-8aa5-6771fafaec6d" />
 
 ### 3.2. Define point of view  
 
-#### 1️⃣ Northstar Metric
-
-<img width="1920" height="1080" alt="pic 3" src="https://github.com/user-attachments/assets/364747d6-1e8d-4053-95e6-f095f3eb2afd" />
-
-#### 2️⃣ Define Point Of View
-
-<img width="1920" height="1080" alt="pic 4" src="https://github.com/user-attachments/assets/3d1c4182-97eb-4156-b1a1-fa12e7ea5fbb" />
-
-#### 3️⃣ Growth Fomula
-
-<img width="1920" height="1080" alt="pic 5" src="https://github.com/user-attachments/assets/fe8ef100-c8a8-4e13-8e83-3d95439a4fb2" />
+<img width="1920" height="1080" alt="2 2" src="https://github.com/user-attachments/assets/823bcfc9-0e74-4da9-80fd-27ccfe0ef65a" />
 
 ### 3.3. Ideate 
 
