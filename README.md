@@ -95,7 +95,7 @@ This dataset has only 1 single fact table with all information including dim, so
 
 #### 3️⃣ Data Relationships
 
-<img width="2041" height="1106" alt="image" src="https://github.com/user-attachments/assets/5c047fd9-b938-4b6a-96bb-2695dbd712b7" />
+<img width="2189" height="1101" alt="image" src="https://github.com/user-attachments/assets/ba25d7a4-48b4-45c7-a6d5-65140b3a8296" />
 
 ## 3. 🧠 Design Thinking Process
 
@@ -115,11 +115,14 @@ This dataset has only 1 single fact table with all information including dim, so
 
 ### 4.1. Campaign Overview
 
-<img width="8831" height="5025" alt="Project_Final_Page_1" src="https://github.com/user-attachments/assets/bdc48f7c-cc81-4417-9333-64208740c5b7" />
+![Final-hình ảnh-0](https://github.com/user-attachments/assets/443f2ddc-4fa1-4a89-9c09-34bb90eeca9c)
 
 #### **Key takeaways: The campaign is highly successful in terms of profitability. However, there is a clear budget-performance mismatch: management should consider reallocating funds from Facebook to Pinterest and increasing investment during the high-efficiency Summer period to maximize overall ROAS.**
 
-#### **Insights Detail:**
+<details>
+  <summary>
+    Click here to see insights detail
+  </summary>
 
 **1. High-level Performance (Scorecards)**
 
@@ -159,13 +162,18 @@ This dataset has only 1 single fact table with all information including dim, so
 
 - Closing Efficiency: Although the Click-Through Rate (CTR) is low, the purchase rate for users who visit the site is very high (22.17%). This proves the ads are reaching the right high-intent audience, but the creative content may need optimization to improve the initial CTR.
 
+</details>
+
 ### 4.2. Analytics Detail
 
-<img width="8831" height="5025" alt="Project_Final_Page_2" src="https://github.com/user-attachments/assets/f072d547-9f5e-4aa2-a569-8aa07728855f" />
+![Final-hình ảnh-1](https://github.com/user-attachments/assets/da3ca2d9-7e0f-4e62-9a6a-3bcc9c385db0)
 
 #### **Key takeaways:** To maximize ROAS, the strategy must shift from high-cost, low-return segments like Facebook in London to high-efficiency opportunities, specifically by scaling Pinterest in Birmingham (which boasts a 34.83 ROAS and 41.78% CVR) while timing budget increases to coincide with lower CPM periods observed in the summer.
 
-#### **Insights Detail:** 
+<details>
+  <summary>
+    Click here to see insights detail
+  </summary>
 
 **1. Optimization Levers Analysis (The "Why" Behind Performance)**
 
@@ -207,17 +215,13 @@ This dataset has only 1 single fact table with all information including dim, so
 
 **3. Channel ROI & Allocation Optimization**
 
-- Revenue per Conversion vs. ROI:
+- Revenue per Conversion vs. ROI: The Budget Allocation Optimization chart reveals that Pinterest consistently provides the highest Revenue per Conversion and ROI across all three cities compared to Facebook and Instagram.
 
-  + The Budget Allocation Optimization chart reveals that Pinterest consistently provides the highest Revenue per Conversion and ROI across all three cities compared to Facebook and Instagram.
+- Pinterest's Low-Cost Advantage: Pinterest maintains an average CPM of $6.47, which is roughly 50% cheaper than Facebook ($13.17) and Instagram ($13.10), driving its superior ROAS.
 
-- Pinterest's Low-Cost Advantage:
+- Instagram’s Engagement Quality: Instagram achieves the highest overall CTR (1.42%), particularly in London (1.49%), proving its effectiveness in capturing user attention despite higher market costs.
 
-  + Pinterest maintains an average CPM of $6.47, which is roughly 50% cheaper than Facebook ($13.17) and Instagram ($13.10), driving its superior ROAS.
-
-- Instagram’s Engagement Quality:
-
-  + Instagram achieves the highest overall CTR (1.42%), particularly in London (1.49%), proving its effectiveness in capturing user attention despite higher market costs.                                                                                              |
+</details>
 
 ## 5. 🔎 Final Conclusion & Recommendations
 
